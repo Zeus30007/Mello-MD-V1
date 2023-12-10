@@ -23,7 +23,7 @@ MelloBot is a multimedia WhatsApp bot inspired by Mello from Death Note, designe
 
 2. Scan the QR and upload mello.json to your fork
     <br>
-<a href='    here ' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=red&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@Zeus30007/Mello-MD-V1?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=red&labelColor=black&color=black'/></a>
 
 
 
