@@ -1,4 +1,4 @@
-# ## MelloBot - WhatsApp Multimedia Bot
+## MelloBot - WhatsApp Multimedia Bot
 
 ![MelloBot Logo](Media/mello.png)
 
